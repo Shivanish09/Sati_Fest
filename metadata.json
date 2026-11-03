@@ -1,0 +1,6 @@
+{
+  "name": "Sati-Fest 2026 - Samrat Ashok Technological Institute",
+  "description": "Official Annual Technical and Cultural Festival of Samrat Ashok Technological Institute (SATI), Vidisha (M.P.), Established 1960. Features team and individual event registrations, schedule management, theme allocations, and campus venue tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
